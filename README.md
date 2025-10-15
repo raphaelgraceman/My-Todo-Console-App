@@ -2,7 +2,6 @@
 
 A basic command-line To-Do List application written in **Kotlin**. This app runs in your terminal and allows you to manage tasks interactively.
 
-----------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## 🚀 Features
 
@@ -11,7 +10,6 @@ A basic command-line To-Do List application written in **Kotlin**. This app runs
 - ❌ Remove tasks by number
 - 🚪 Exit the app gracefully
 
-----------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## 🛠️ How It Works
 
